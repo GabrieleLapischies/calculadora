@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: wheat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    height: 200px;
+    width: 400px;
+    margin: 15px;
+}
+.caixa1{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 7px;
+}
